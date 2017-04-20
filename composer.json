@@ -1,0 +1,19 @@
+{
+    "name": "zloykolobok/modules",
+    "description": "Modular system in Laravel",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "zloykolobok",
+            "email": "rnikolaenkov@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Zloykolobok\\Modules\\": ""
+    	}
+    }
+}
